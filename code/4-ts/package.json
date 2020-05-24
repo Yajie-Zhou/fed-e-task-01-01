@@ -1,0 +1,13 @@
+{
+  "name": "4-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/lodash": "^4.14.152",
+    "typescript": "^3.9.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
